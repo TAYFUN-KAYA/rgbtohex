@@ -3,6 +3,7 @@
   "displayName": "RGBTOHEX",
   "description": "convert color",
   "publisher": "tayfun-engineer",
+  "icon": "media/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/TAYFUN-KAYA/rgbtohex.git"
