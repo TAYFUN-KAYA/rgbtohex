@@ -4,21 +4,11 @@ Sometimes we hesitate to use RGB codes while developing. Front-end developers wa
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+In this version I have clearly presented the basic usage. Convert rgb to hex with pleasure
 
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
+active release of 1.0.0
 
 ## Working with Markdown
 
