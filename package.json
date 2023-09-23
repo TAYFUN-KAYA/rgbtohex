@@ -2,6 +2,15 @@
   "name": "rgbtohex",
   "displayName": "RGBTOHEX",
   "description": "convert color",
+  "publisher": "tayfun-engineer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAYFUN-KAYA/rgbtohex.git"
+  },
+  "keywords": [
+    "rgbtohex",
+    "rgb to hex"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
